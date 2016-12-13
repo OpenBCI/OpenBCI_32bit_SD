@@ -18,7 +18,6 @@
  * <http://www.gnu.org/licenses/>.
  */
 #include <p32xxxx.h>
-#include <plib.h>
 
 
 
